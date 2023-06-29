@@ -9,7 +9,7 @@ dependencies:
   - git
   - ipython
   - notebook
-  - jupyterlab
+  - jupyter
   - pip
   - pip:
       - wandb
